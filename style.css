@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo{
+    margin: 0px 0px 0px 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 12vh;
+    border-color: white;
+    background-color: rgb(252, 245, 251);
+}
+.headerNav ul{
+    display: flex;
+    list-style: none;
+}
+.headerNav ul li{
+    margin: 10px;
+}
+
+.headerNav ul li a{
+    text-decoration: none;
+}
+
+.BUT button{
+    border: 1px solid;
+    height: 40px;
+    width: 120px;
+    color: blue;
+    margin-right: 20px;
+transition:all 2s ease-in;
+transition:width 2s ease-in;
+border-radius: 10px;
+cursor: pointer;
+}
+.BUT button:hover{
+background-color: blue;
+color: white;
+width: 120px;
+}
+.hero-section{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-image: url('car.png');
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
