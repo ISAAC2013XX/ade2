@@ -1,76 +1,71 @@
-# 🎮 Ultimate Gaming Server
+# 🚗 ADE2 Auto Parts & Services
 
-Welcome to the **Ultimate Gaming Server** — your next-level hub for gamers who love competition, teamwork, and good vibes. Whether you’re into FPS, RPGs, survival, or strategy — we’ve got a place for you.
-
----
-
-## 🚀 About the Server
-
-The **Ultimate Gaming Server** is a community-driven space built for gamers, by gamers. Our goal is to connect players worldwide, host events, and provide a safe and fun environment for everyone.
+Welcome to **ADE2 Auto Parts & Services** — your trusted destination for quality auto parts, expert repairs, and outstanding customer care. We keep you moving with genuine products and professional service.
 
 ---
 
-## 🕹️ Features
+## 🏢 About Us
 
-- 🧩 **Multi-Game Support** – Play and discuss all your favorite titles.  
-- 💬 **Active Voice & Chat Channels** – Always find someone to squad up with.  
-- 🏆 **Weekly Tournaments & Events** – Win prizes and show off your skills.  
-- 🛡️ **Anti-Toxic Environment** – Respect and fairness come first.  
-- 🔥 **24/7 Server Uptime** – Play anytime, anywhere.  
-- 🎁 **Exclusive Roles & Rewards** – Earn XP and unlock special perks.  
+ADE2 is dedicated to providing top-tier auto parts and repair solutions for all vehicle types. Our experienced team ensures your car gets the best care, whether you need a quick fix or a major overhaul.
 
 ---
 
-## ⚙️ Getting Started
+## ⭐ Our Specialties
 
-1. **Join the Server** – Click the invite link (coming soon).  
-2. **Choose Your Roles** – Pick your favorite games and interests.  
-3. **Read the Rules** – Keep it fun and friendly.  
-4. **Start Gaming!** – Team up, compete, and enjoy the ride.
-
----
-
-## 📅 Upcoming Events
-
-| Event | Date | Description |
-|-------|------|-------------|
-| 🎯 Aim Masters Tournament | Oct 15 | FPS event with leaderboard and prizes |
-| 🧱 Build Battle | Oct 20 | Minecraft creative challenge |
-| ⚔️ Guild Wars | Oct 25 | RPG PvP competition between clans |
+- Genuine auto parts for all makes and models
+- Professional diagnostics and repairs
+- Performance upgrades and customizations
+- Customer satisfaction guaranteed
+- Fast, reliable service
 
 ---
 
-## 🤝 Contribute
+## 🛠️ Services
 
-We’re open to collaborations and community suggestions!  
-If you’d like to help improve the server, report bugs, or suggest new features:
-
-1. Fork this repo  
-2. Create your branch (`feature/awesome-idea`)  
-3. Commit your changes  
-4. Open a Pull Request  
-
----
-
-## 🧑‍💻 Tech Stack (For Developers)
-
-- **Node.js** – Backend for event systems  
-- **Express.js** – API & routing  
-- **Socket.io** – Real-time chat & matchmaking  
-- **MongoDB** – Database for users and stats  
-- **GitHub Actions** – Automated deployment and moderation tools  
+- Engine diagnostics & repair
+- Brake & suspension services
+- Oil change & maintenance
+- Electrical system fixes
+- Tire replacement & balancing
+- Performance tuning
 
 ---
 
-## 🌐 Connect With Us
+## 🏆 Performance & Statistics
 
-- 💻 **Website:** [Coming Soon]  
-- 💬 **Discord:** [Invite Link]  
-- 🐦 **Twitter/X:** [@UltimateGameSrv](#)  
-- 📺 **YouTube:** [UltimateGamingServer](#)
+We pride ourselves on:
+
+- 99% customer satisfaction
+- 10,000+ parts in stock
+- 5,000+ vehicles serviced
+- 24/7 support and emergency repairs
 
 ---
 
-### 🏁 Join the Fun — Game. Chat. Win.
+## 🛒 Featured Products
 
-> _Built by gamers, for gamers. Power up your experience with Ultimate Gaming Server._
+- OEM & aftermarket parts
+- High-performance accessories
+- Seasonal offers and discounts
+
+---
+
+## 📞 Contact Us
+
+- Email: olaoluwasunkanmi@gmail.com
+- Location: Visit our store or reach out online
+
+---
+
+## 📚 How to Get Started
+
+1. Browse our catalog for parts and services
+2. Contact us for expert advice
+3. Book your service or order parts
+4. Experience the ADE2 difference!
+
+---
+
+### 🚘 Drive with Confidence — Choose ADE2
+
+> _Quality parts. Expert service. Your satisfaction, guaranteed._
